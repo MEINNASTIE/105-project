@@ -1,0 +1,65 @@
+/* CSS for Github study purposes */
+
+* {
+	color: #C49A66;
+	font-family: 'Amatic SC', cursive;
+	font-size: 42px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	margin: 0 40px;
+	line-height: 45px;
+	background-color: #0D3143;
+}
+
+header {
+	background-image: url(trees-with-starry-sky-above.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+header a {
+	font-size: 28px;
+	padding: 40px;
+}
+header a:hover {
+	color: #fff;
+}
+
+header h1 {
+	padding: 40px;
+}
+
+.advice {
+	margin-top: 40px;
+}
+
+.advice h4 {
+	padding: 20px;
+	font-size: 48px;
+	background-image: url(trees-with-starry-sky-above.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.advice h4:last-of-type {
+	margin-top: 40px;
+}
+
+.advice p {
+	text-align: justify;
+}
+
+footer {
+	padding: 40px;
+}
+footer p {
+	font-size: 28px;
+}
